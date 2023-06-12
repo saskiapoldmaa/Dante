@@ -1,0 +1,1 @@
+Kasutajale esitatakse 13 valikvariantidega küsimust, mille põhjal arvutatakse välja põrguring, millesse kasutaja kuulub. Lisaks mõõdab testi pikkust ka taimer. Väljastatakse tulemus koos antud põrguringi kirjeldusega ning sobiva pildiga. Kõik kirjeldused on leitavad päisest “Põrguringide” alt.
